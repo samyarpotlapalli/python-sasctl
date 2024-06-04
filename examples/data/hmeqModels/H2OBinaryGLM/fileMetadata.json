@@ -1,0 +1,18 @@
+[
+    {
+        "role": "inputVariables",
+        "name": "inputVar.json"
+    },
+    {
+        "role": "outputVariables",
+        "name": "outputVar.json"
+    },
+    {
+        "role": "score",
+        "name": "score_glmfit_binary.py"
+    },
+    {
+        "role": "scoreResource",
+        "name": "glmfit_binary.pickle"
+    }
+]

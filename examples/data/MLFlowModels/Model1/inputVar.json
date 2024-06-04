@@ -1,0 +1,68 @@
+[
+    {
+        "name": "fixedacidity",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "volatileacidity",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "citricacid",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "residualsugar",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "chlorides",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "freesulfurdioxide",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "totalsulfurdioxide",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "density",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "pH",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "sulphates",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "alcohol",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    }
+]

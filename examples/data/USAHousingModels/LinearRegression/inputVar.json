@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Avg_Area_Income",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "Avg_Area_House_Age",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "Avg_Area_Number_of_Rooms",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "Avg_Area_Number_of_Bedrooms",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    },
+    {
+        "name": "Area_Population",
+        "level": "interval",
+        "type": "decimal",
+        "length": 8
+    }
+]

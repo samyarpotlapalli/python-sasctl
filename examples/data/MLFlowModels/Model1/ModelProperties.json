@@ -1,0 +1,17 @@
+{
+    "name": "MLFlowModel",
+    "description": "MLFlow Model",
+    "scoreCodeType": "python",
+    "trainTable": "",
+    "trainCodeType": "Python",
+    "algorithm": "",
+    "function": "Classification",
+    "targetVariable": "tensor",
+    "targetEvent": "1",
+    "targetLevel": "BINARY",
+    "eventProbVar": "P_1",
+    "modeler": "sasdemo",
+    "tool": "Python 3",
+    "toolVersion": "3.8.16",
+    "properties": []
+}
